@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabnews-rw-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "jest --runInBand",
+    "test:watch": "jest --watchAll --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^30.0.5",
+    "next": "^15.5.0",
+    "next-connect": "^1.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
